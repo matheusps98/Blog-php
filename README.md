@@ -35,7 +35,7 @@ blog/
 
 1️⃣ **Clone o repositório:**  
    ```sh
-   git clone https://github.com/seuusuario/blog-php.git
+   git clone https://github.com/matheusps98/blog-php.git
    ```
 
 2️⃣ **Mova os arquivos para um servidor local** *(XAMPP, WAMP ou Laragon)*
@@ -55,26 +55,6 @@ Este projeto está sob a **licença MIT**. Sinta-se à vontade para usá-lo e mo
 
 ---
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. **Faça um fork do projeto**
-2. **Crie uma branch com sua feature:**  
-   ```sh
-   git checkout -b minha-feature
-   ```
-3. **Commit suas mudanças:**  
-   ```sh
-   git commit -m 'Adicionando nova feature'
-   ```
-4. **Envie para o repositório:**  
-   ```sh
-   git push origin minha-feature
-   ```
-5. **Abra um Pull Request** 📩
-
----
 
 ## 👨‍💻 Autor
 
