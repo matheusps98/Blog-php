@@ -78,7 +78,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Flash 🚀**. Para mais projetos, me siga no **GitHub**!
+Desenvolvido por **Matheus Silva 🚀**. Para mais projetos, me siga no **GitHub**!
 
 📧 **Entre em contato:** [matheus.eduf98@gmail.com](mailto:matheus.eduf98@gmail.com)  
 🐙 **GitHub:** [github.com/matheusps98](https://github.com/matheusps98)  
