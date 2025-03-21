@@ -1,19 +1,23 @@
-#Blog em PHP
+# 📝 Blog em PHP
 
-Este é um projeto de blog desenvolvido em PHP, permitindo a publicação e visualização de postagens de forma dinâmica e intuitiva.
+![Blog PHP] <!-- Adicione um banner/imagem representativa do projeto -->
 
-🚀 Tecnologias Utilizadas
+Este é um projeto de **blog desenvolvido em PHP**, permitindo a **publicação e visualização de postagens** de forma dinâmica e intuitiva.
 
-PHP - Backend dinâmico para processar postagens
+---
 
-HTML & CSS - Estrutura e estilização das páginas
+## 🚀 Tecnologias Utilizadas
 
-JavaScript - Interatividade no front-end
+🔹 **PHP** - Backend dinâmico para processar postagens  
+🔹 **HTML & CSS** - Estrutura e estilização das páginas  
+🔹 **JavaScript** - Interatividade no front-end  
+🔹 **MySQL** *(caso utilize banco de dados)* - Armazenamento de postagens  
 
-MySQL (caso utilize banco de dados) - Armazenamento de postagens
+---
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
+```
 blog/
 ├── index.php        # Página inicial do blog
 ├── post.php         # Exibição de postagens individuais
@@ -23,42 +27,60 @@ blog/
 ├── data/           # Armazenamento de dados
 ├── helpers/        # Funções auxiliares do projeto
 └── templates/      # Estruturas reutilizáveis do blog
+```
 
-🔧 Como Executar o Projeto
+---
 
-Faça o download do repositório:
+## 🔧 Como Executar o Projeto
 
-git clone https://github.com/seuusuario/blog-php.git
+1️⃣ **Clone o repositório:**  
+   ```sh
+   git clone https://github.com/seuusuario/blog-php.git
+   ```
 
-Mova os arquivos para um servidor local (XAMPP, WAMP ou Laragon)
+2️⃣ **Mova os arquivos para um servidor local** *(XAMPP, WAMP ou Laragon)*
 
-Inicie o servidor Apache e, se necessário, o MySQL
+3️⃣ **Inicie o servidor Apache e, se necessário, o MySQL**
 
-Acesse no navegador:
+4️⃣ **Acesse no navegador:**  
+   ```
+   http://localhost/blog
+   ```
 
-http://localhost/blog
+---
 
-📜 Licença
+## 📜 Licença
 
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo!
+Este projeto está sob a **licença MIT**. Sinta-se à vontade para usá-lo e modificá-lo!
 
-🤝 Contribuição
+---
+
+## 🤝 Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
 
-Faça um fork do projeto
+1. **Faça um fork do projeto**
+2. **Crie uma branch com sua feature:**  
+   ```sh
+   git checkout -b minha-feature
+   ```
+3. **Commit suas mudanças:**  
+   ```sh
+   git commit -m 'Adicionando nova feature'
+   ```
+4. **Envie para o repositório:**  
+   ```sh
+   git push origin minha-feature
+   ```
+5. **Abra um Pull Request** 📩
 
-Crie uma branch com sua feature: git checkout -b minha-feature
+---
 
-Commit suas mudanças: git commit -m 'Adicionando nova feature'
+## 👨‍💻 Autor
 
-Envie para o repositório: git push origin minha-feature
+Desenvolvido por **Flash 🚀**. Para mais projetos, me siga no **GitHub**!
 
-Abra um Pull Request
-
-👨‍💻 Autor
-
-Desenvolvido por Flash 🚀. Para mais projetos, me siga no GitHub!
-
-📧 Entre em contato: matheus.eduf98@gmail.com
+📧 **Entre em contato:** [matheus.eduf98@gmail.com](mailto:matheus.eduf98@gmail.com)  
+🐙 **GitHub:** [github.com/matheusps98](https://github.com/matheusps98)  
+🌎 **Website:** [https://matheussilva.vercel.app](https://matheussilva.vercel.app)
 
